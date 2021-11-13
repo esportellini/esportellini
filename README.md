@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Segurança da informação** na <a href="https://fiap.com.br">FIAP</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento de A.I.**.
+- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento de A.I**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
