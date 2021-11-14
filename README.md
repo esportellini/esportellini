@@ -5,8 +5,8 @@ import Desenvolvedor from 'zhaikki';
 
 class SobreMim extends Desenvolvedor {
   nome = 'Enzo';
-  area = '**Segurança da informação**';
-  faculdade = '<a href="https://fiap.com.br">FIAP</a>';
+  area = **Segurança da informação**;
+  faculdade = <a href="https://fiap.com.br">FIAP</a>;
   aprendendo = '**Desenvolvimento de A.I**';
 }
 ```
