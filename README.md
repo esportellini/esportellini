@@ -11,8 +11,6 @@ class SobreMim extends Desenvolvedor {
 }
 ```
 
----
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
