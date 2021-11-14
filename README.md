@@ -4,18 +4,14 @@
 import Desenvolvedor from 'zhaikki';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Enzo';
-  area    = 'Sua área';
-  trabalho  = 'Onde trabalha';
-  local = 'Local';
+  nome = 'Enzo';
+  area = '**Segurança da informação**';
+  faculdade = '<a href="https://fiap.com.br">FIAP</a>';
+  aprendendo = '**Desenvolvimento de A.I**';
 }
 ```
 
 ---
-
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Segurança da informação** na <a href="https://fiap.com.br">FIAP</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento de A.I**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
