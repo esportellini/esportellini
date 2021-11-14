@@ -7,7 +7,7 @@ class SobreMim extends Desenvolvedor {
   nome = 'Enzo';
   area = 'Segurança da informação';
   faculdade = 'FIAP';
-  aprendendo = '**Desenvolvimento de A.I**';
+  aprendendo = 'Desenvolvimento de A.I';
 }
 ```
 
