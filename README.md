@@ -5,7 +5,7 @@ import Desenvolvedor from 'zhaikki';
 
 class SobreMim extends Desenvolvedor {
   nome = 'Enzo';
-  area = 'Segurança da informação';
+  area = 'Engenharia da Computação';
   faculdade = 'FIAP';
   aprendendo = 'Desenvolvimento de A.I';
 }
