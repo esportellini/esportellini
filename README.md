@@ -1,19 +1,8 @@
-<h3> Sobre mim </h3>
+<h3> About Me </h3>
 
-```js
-import Desenvolvedor from 'zhaikki';
+<h3> :rocket: &nbsp;Skills </h3>
 
-class SobreMim extends Desenvolvedor {
-  nome = 'Enzo';
-  area = 'Engenharia da Computação';
-  faculdade = 'FIAP';
-  aprendendo = 'Desenvolvimento de A.I';
-}
-```
-
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
+**Languages**
 
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -25,11 +14,11 @@ class SobreMim extends Desenvolvedor {
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de Desenvolvimento**
+**Developing Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Find Me: </h3> 
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/zhaikki)
