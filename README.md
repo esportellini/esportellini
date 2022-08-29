@@ -1,5 +1,4 @@
-
-<h3> :rocket: &nbsp;Skills </h3>
+<h3> About me </h3>
 
 **Languages**
 
