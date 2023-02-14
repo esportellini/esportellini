@@ -1,9 +1,5 @@
 Sou um developer full stack com experiência em construção de sites e desenvolvimento de scripts, além disso, já atuei com edição de vídeos.
 
-Estou cursando engenharia da computação pela FIAP e atualmente busco oportunidades para adquirir novas experiências na área de TI. Sou uma pessoa muito dedicada e comprometida com as atribuições que são dadas a mim. Me disponho a me aperfeiçoar no que for necessário.
-
-Dedico meu tempo livre para o desenvolvimento de novas habilidades para obter um maior desenvolvimento pessoal.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
