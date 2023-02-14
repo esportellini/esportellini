@@ -1,4 +1,8 @@
-[![esportellini's GitHub stats](https://github-readme-stats.vercel.app/api?username=esportellini)](https://github.com/anuraghazra/github-readme-stats)
+Sou um developer full stack com experiência em construção de sites e desenvolvimento de scripts, além disso, já atuei com edição de vídeos.
+
+Estou cursando engenharia da computação pela FIAP e atualmente busco oportunidades para adquirir novas experiências na área de TI. Sou uma pessoa muito dedicada e comprometida com as atribuições que são dadas a mim. Me disponho a me aperfeiçoar no que for necessário.
+
+Dedico meu tempo livre para o desenvolvimento de novas habilidades para obter um maior desenvolvimento pessoal.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -6,6 +10,10 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+**DevOps**
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a2d7521052511d0c06dff3b0c3a8e4d66a10ef5a/icons/amazonaws.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/a2d7521052511d0c06dff3b0c3a8e4d66a10ef5a/icons/azuredevops.svg">
 </div>
   
   ##
