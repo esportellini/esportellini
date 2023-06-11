@@ -1,4 +1,4 @@
-Sou um developer full stack com experiência em construção de sites e desenvolvimento de scripts, além disso, já atuei com edição de vídeos.
+Constante aprendiz, profissional fascinado e criativo. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
