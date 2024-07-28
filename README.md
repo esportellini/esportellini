@@ -1,6 +1,4 @@
-[<br>
-https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=5DAFF7&random=false&width=435&lines=Welcome+to+my+home!
-<br>](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=5DAFF7&random=false&width=435&lines=Welcome+to+my+home!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5DAFF7&random=false&width=435&lines=Hi!+My+name+is+Caio+Venancio)](https://git.io/typing-svg)
 
 Constante aprendiz, profissional fascinado e criativo. 
 
