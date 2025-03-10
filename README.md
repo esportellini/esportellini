@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=5DAFF7&random=false&width=435&lines=Welcome+to+my+home!)](https://git.io/typing-svg)
 
-Constante aprendiz, profissional fascinado e criativo. 
+Full Stack Developer with solid experience in application development and maintenance, covering everything from back-end development with C#, .NET, and Microsoft SQL to front-end using Angular for modern and responsive interfaces.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
